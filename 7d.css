@@ -1,0 +1,9 @@
+.tex {
+  width: 150px;
+  font-size: 14px;
+  height: 30px;
+  border-color: rgba(128, 128, 128, 0.646);
+  border-style: solid;
+  border-radius: 10px;
+  padding-left: 10px;
+}
