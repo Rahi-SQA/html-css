@@ -1,0 +1,57 @@
+.first {
+  font-family: Arial;
+  font-size: 16px;
+  border-color: rgb(200, 200, 200);
+  border-width: 1px;
+  border: solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 7px;
+  margin-right: 5px;
+  margin-bottom: 12px;
+  width: 150px;
+}
+.last {
+  font-family: Arial;
+  font-size: 16px;
+  width: 150px;
+  border-color: rgb(200, 200, 200);
+  border-width: 1px;
+  border: solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 7px;
+}
+.mail {
+  font-family: Arial;
+  font-size: 16px;
+  display: block;
+  width: 350px;
+  border-color: rgb(200, 200, 200);
+  border-width: 1px;
+  border: solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 7px;
+  margin-bottom: 12px;
+}
+.sign {
+  font-family: Arial;
+  font-size: 18px;
+  width: 396px;
+  background-color: rgb(47, 127, 231);
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 7px;
+  border: none;
+  font-weight: bold;
+}
